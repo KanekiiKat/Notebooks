@@ -16,4 +16,4 @@ Notebooks copiados del repositorio del profesor.
 
 **Creado por Alejandro Villar Rioja**
 
-- [GitHub](https://github.com/tu-usuario)
+- [GitHub](https://github.com/Kanekiikat)
