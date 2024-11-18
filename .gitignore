@@ -1,0 +1,50 @@
+# Carpetas y archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos y carpetas ocultos
+*.swp
+.*.swp
+*~
+.ipynb_checkpoints/
+.env
+.venv/
+.idea/
+.vscode/
+__pycache__/
+*.py[cod]
+
+# Archivos temporales de Jupyter Notebook
+*.ipynb_checkpoints
+
+# Archivos de salidas (pueden ser pesados si los notebooks incluyen muchas imágenes)
+*.out
+*.log
+*.bak
+
+# Entornos virtuales
+env/
+venv/
+ENV/
+
+# Archivos comprimidos y binarios
+*.tar.gz
+*.zip
+*.rar
+*.7z
+
+# Archivos de Jupyter Lab
+.jupyter/
+.jupyterlab/
+.lab/
+
+# Archivos de configuración (si usas Jupyter Lab)
+.jupyter-lab/
+.jupyterlab-workspace/
+.jupyterlab-settings/
+
+# Configuración del entorno de Python
+.Python
+pip-log.txt
+pip-delete-this-directory.txt
+pyenv
