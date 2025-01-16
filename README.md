@@ -25,7 +25,7 @@ Notebooks hechos para la asignatura de Programación.
 #### Notebooks de katas.
 
 - [Yatzy apuntes](Segundo_Trimestre/yatzi.ipynb)
-
+- [Bowling apuntes](Segundo_Trimestre/bowling.ipynb)
 ---
 
 **Creado por Alejandro Villar Rioja**
