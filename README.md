@@ -27,6 +27,7 @@ Notebooks hechos para la asignatura de Programación.
 
 - [Yatzy apuntes](Segundo_Trimestre/yatzi.ipynb)
 - [Bowling apuntes](Segundo_Trimestre/bowling.ipynb)
+- [Piedra, Papel, Tijera](Segundo_Trimestre/apuntes_PiedraPapelTijera.ipynb)
 ---
 
 **Creado por Alejandro Villar Rioja**
