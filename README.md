@@ -22,6 +22,7 @@ Notebooks hechos para la asignatura de Programación.
 - [Apuntes segundo trimestre](Segundo_Trimestre/apuntes_2t_nb.ipynb)
 - [Conjuntos Notebook](Segundo_Trimestre/conjuntos.ipynb)
 - [Java](Segundo_Trimestre/apuntes_Java.ipynb)
+- [Maven](Segundo_Trimestre/Comandos_Maven.ipynb)
 
 #### Notebooks de katas.
 
