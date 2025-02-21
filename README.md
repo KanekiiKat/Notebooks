@@ -24,11 +24,16 @@ Notebooks hechos para la asignatura de Programación.
 - [Java](Segundo_Trimestre/apuntes_Java.ipynb)
 - [Maven](Segundo_Trimestre/Comandos_Maven.ipynb)
 
-#### Notebooks de katas.
+#### Notebooks de katas de Python.
 
 - [Yatzy apuntes](Segundo_Trimestre/yatzi.ipynb)
 - [Bowling apuntes](Segundo_Trimestre/bowling.ipynb)
 - [Piedra, Papel, Tijera](Segundo_Trimestre/apuntes_PiedraPapelTijera.ipynb)
+
+#### Notebooks de katas de Java.
+
+- [BiciPalma apuntes](Segundo_Trimestre/bicipalma.ipynb)
+
 ---
 
 **Creado por Alejandro Villar Rioja**
