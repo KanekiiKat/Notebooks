@@ -33,6 +33,7 @@ Notebooks hechos para la asignatura de Programación.
 #### Notebooks de katas de Java.
 
 - [BiciPalma apuntes](Segundo_Trimestre/bicipalma.ipynb)
+- [Boxing Card apuntes](Segundo_Trimestre/boxing_card_kata.ipynb)
 
 ---
 
