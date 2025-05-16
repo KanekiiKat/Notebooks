@@ -21,7 +21,8 @@ Notebooks hechos para la asignatura de Programación.
 #### Notebooks de programación de clase.
 - [Apuntes segundo trimestre](Segundo_Trimestre/apuntes_2t_nb.ipynb)
 - [Conjuntos Notebook](Segundo_Trimestre/conjuntos.ipynb)
-- [Java](Segundo_Trimestre/apuntes_Java.ipynb)
+- [Apuntes Java](Segundo_Trimestre/apuntes_Java.ipynb)
+- [Apuntes Java 2](Segundo_Trimestre/apuntes_Java_2.ipynb)
 - [Maven](Segundo_Trimestre/Comandos_Maven.ipynb)
 
 #### Notebooks de katas de Python.
@@ -34,6 +35,11 @@ Notebooks hechos para la asignatura de Programación.
 
 - [BiciPalma apuntes](Segundo_Trimestre/bicipalma.ipynb)
 - [Boxing Card apuntes](Segundo_Trimestre/boxing_card_kata.ipynb)
+
+#### Notebooks de temas especificos.
+
+- [Errores](Segundo_Trimestre/apuntes_videos.ipynb)
+- [Control de errores (Assertciones)](Segundo_Trimestre/assertciones.ipynb)
 
 ---
 
